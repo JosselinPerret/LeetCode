@@ -46,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JosselinPerret/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/JosselinPerret/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/JosselinPerret/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JosselinPerret/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
