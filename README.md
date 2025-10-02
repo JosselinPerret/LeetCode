@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JosselinPerret/LeetCode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JosselinPerret/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/JosselinPerret/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/JosselinPerret/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JosselinPerret/LeetCode/tree/master/0056-merge-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/JosselinPerret/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
