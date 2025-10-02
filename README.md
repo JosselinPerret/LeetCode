@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/JosselinPerret/LeetCode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JosselinPerret/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/JosselinPerret/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/JosselinPerret/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/JosselinPerret/LeetCode/tree/master/0525-contiguous-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JosselinPerret/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/JosselinPerret/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/JosselinPerret/LeetCode/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
