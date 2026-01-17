@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/JosselinPerret/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JosselinPerret/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/JosselinPerret/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JosselinPerret/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Design
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JosselinPerret/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JosselinPerret/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/JosselinPerret/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JosselinPerret/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Recursion
 |  |
 | ------- |
