@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/JosselinPerret/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/JosselinPerret/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JosselinPerret/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/JosselinPerret/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/JosselinPerret/LeetCode/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/JosselinPerret/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
